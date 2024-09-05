@@ -1,0 +1,2 @@
+GET http://localhost:8080/students/2000-01-15
+Accept: application/json
